@@ -1,0 +1,96 @@
+body{
+    background-color: #A9927D;
+}
+
+.square{
+    background-color: #8E9A7B;
+    height: 500px;
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+}
+
+h1, h3, li{
+    color:white;
+}
+
+h1{
+    font-size:40px;
+}
+
+footer{
+    margin: 25px 2px 50px 650px;
+}
+
+img{
+    height:100px;
+    width:100px;
+}
+
+ul{
+    font-size:30px
+}
+
+.square, h1, h3, li, p, .chapters{
+    text-align:center;
+}
+
+li{
+    margin:auto;
+}
+
+p{
+    font-size:24px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+#rightSide{
+    margin-left: 100px;
+}
+
+.chapters{
+    padding-top: 60px;
+}
+
+a{
+    color:black;
+}
+
+#chapter1{
+    padding-top:100px;
+}
+
+#chapter2, #chapter5{
+    padding-top:55px;
+}
+
+#chapter3{
+    padding-top:10px;
+}
+
+#chapter4{
+    padding-top:135px;
+}
+
+#chapter6, #chapter7, #chapter9{
+    padding-top:70px;
+}
+
+#chapter8{
+    padding-top:150px;
+}
+
+#chapter10{
+    padding-top:180px;
+}
+
+#cover{
+    height:300px;
+    width:300px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 95px;
+}
